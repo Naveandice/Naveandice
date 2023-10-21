@@ -1,7 +1,10 @@
-# Naveandice /'neɪvi.ən.daɪs/ &middot; he/him
+# Naveandice
 
 I'm just a random person on the Internet.
 
+[**Or am I?**](https://youtu.be/TN25ghkfgQA)
+
+[![About Me](https://img.shields.io/badge/About_Me-010409?style=for-the-badge&logo=github&logoColor=white)](/docs/index.md)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/naveandice)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@naveandiceislost)
 
@@ -9,19 +12,21 @@ I'm just a random person on the Internet.
 
 <details><summary>Preferences and skills &hookleftarrow;</summary>
 
-### I prefer these IDEs for programming and stuff
+### I prefer these code editors and IDEs for programming and stuff
 
-[![Visual Studio Code logo](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![Visual Studio Code, Visual Studio logos](https://skillicons.dev/icons?i=vscode,visualstudio)](https://visualstudio.microsoft.com)
 
 ### I have some skills in working with
 
 [![HTML, CSS, JavaScript logos](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-[<img width="48" src="https://cdn.simpleicons.org/jekyll/" alt="Jekyll logo" />](https://simpleicons.org)
+### I am currently learning these programming languages
 
-### Skills I want to learn in the future
+[![C Sharp, Python logos](https://skillicons.dev/icons?i=cs,python)](https://skillicons.dev)
 
-[![C Sharp, Java, Kotlin, Python logos](https://skillicons.dev/icons?i=cs,java,kotlin,python)](https://skillicons.dev)
+### Programming languages I want to learn in the future
+
+[![Java, Kotlin logos](https://skillicons.dev/icons?i=java,kotlin)](https://skillicons.dev)
 
 </details>
 
@@ -42,9 +47,9 @@ I'm just a random person on the Internet.
 
 <!-- very funny thing down below -->
 
-### Erm
+## Erm
 
-[![Erm](https://media.tenor.com/OqCIl3lPCqYAAAAC/caterm.gif)](https://tenor.com/fcexwBufXrm.gif)
+![Erm](https://cdn.7tv.app/emote/63779741da38f5d7f3d6d3db/4x.webp)
 
 <!-- source and current version -->
 
@@ -55,6 +60,6 @@ I'm just a random person on the Internet.
 [Naveandice/Naveandice](https://github.com/Naveandice/Naveandice),
 [README.md](https://github.com/Naveandice/Naveandice/blob/main/README.md)
 &middot;
-v1.2
+v1.3.0
 
 </sub>
