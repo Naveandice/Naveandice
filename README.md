@@ -1,32 +1,25 @@
-# Naveandice
+# Naveandice (a.k.a. Dicey)
 
-I'm just a random person on the Internet.
+:wave: Greetings, fellow programmers.
 
-[**Or am I?**](https://youtu.be/TN25ghkfgQA)
+I'm just a random person on the Internet. **Or am I?**
 
-[![About Me](https://img.shields.io/badge/About_Me-010409?style=for-the-badge&logo=github&logoColor=white)](/docs/index.md)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/naveandice)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@naveandiceislost)
+[![About Me][badge-aboutme]](/docs/index.md)
+[![Twitch][badge-twitch]](https://twitch.tv/naveandice)
+[![YouTube][badge-youtube]](https://www.youtube.com/@naveandiceislost)
 
 <!-- preferences and skills -->
 
 <details><summary>Preferences and skills &hookleftarrow;</summary>
 
-### I prefer these code editors and IDEs for programming and stuff
+<br />
 
-[![Visual Studio Code, Visual Studio logos](https://skillicons.dev/icons?i=vscode,visualstudio)](https://visualstudio.microsoft.com)
-
-### I have some skills in working with
-
-[![HTML, CSS, JavaScript logos](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-
-### I am currently learning these programming languages
-
-[![C Sharp, Python logos](https://skillicons.dev/icons?i=cs,python)](https://skillicons.dev)
-
-### Programming languages I want to learn in the future
-
-[![Java, Kotlin logos](https://skillicons.dev/icons?i=java,kotlin)](https://skillicons.dev)
+| Subjects | Preferences / Skills |
+|:--------:|:--------------------:|
+| Code Editors, IDEs | ![][icons-editors] |
+| Can work with | ![][icons-webdevelop] |
+| Currently learning | ![][icons-learning] |
+| Want to learn | ![][icons-learnnext] |
 
 </details>
 
@@ -34,14 +27,13 @@ I'm just a random person on the Internet.
 
 <details><summary>GitHub Stats &hookleftarrow;</summary>
 
-<div align="center">
+<br />
 
-[![Stats graph](https://github-readme-stats.vercel.app/api?username=Naveandice&theme=synthwave&show_icons=true&rank_icon=github)](https://github-readme-stats.vercel.app)
-[![Top languages graph](https://github-readme-stats.vercel.app/api/top-langs?username=Naveandice&theme=synthwave&layout=compact&langs_count=8)](https://github-readme-stats.vercel.app)
-
-[![Streaks graph](https://streak-stats.demolab.com/?user=Naveandice&theme=synthwave)](https://streak-stats.demolab.com)
-
-</div>
+| Github  Statistics |
+|:------------------:|
+|   [![][graph-stats]][link-stats]   |
+|   [![][graph-langs]][link-stats]   |
+| [![][graph-streaks]][link-streaks] |
 
 </details>
 
@@ -60,6 +52,23 @@ I'm just a random person on the Internet.
 [Naveandice/Naveandice](https://github.com/Naveandice/Naveandice),
 [README.md](https://github.com/Naveandice/Naveandice/blob/main/README.md)
 &middot;
-v1.3.0
+v1.4.0
 
 </sub>
+
+
+[badge-aboutme]: https://img.shields.io/badge/About_Me-010409?style=for-the-badge&logo=github&logoColor=white
+[badge-twitch]: https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white
+[badge-youtube]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+
+[icons-editors]: https://skillicons.dev/icons?i=vscode,visualstudio,eclipse
+[icons-webdevelop]: https://skillicons.dev/icons?i=html,css,js
+[icons-learning]: https://skillicons.dev/icons?i=cs,python
+[icons-learnnext]: https://skillicons.dev/icons?i=java,kotlin
+
+[graph-stats]: https://github-readme-stats.vercel.app/api?username=Naveandice&theme=synthwave&show_icons=true&rank_icon=github
+[graph-langs]: https://github-readme-stats.vercel.app/api/top-langs?username=Naveandice&theme=synthwave&layout=compact&langs_count=8
+[graph-streaks]: https://streak-stats.demolab.com/?user=Naveandice&theme=synthwave
+
+[link-stats]: https://github-readme-stats.vercel.app
+[link-streaks]: https://streak-stats.demolab.com
