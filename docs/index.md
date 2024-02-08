@@ -14,8 +14,8 @@
 
 There are two ways to pronounce my username:
 
-- navy-an-dice <code>/'ne&#618;.vi.&#601;n.da&#618;s/</code>
-- nave-an-dice <code>/'ne&#618;v.&#601;n.da&#618;s/</code>
+- navy-an-dice /'ne&#618;.vi.&#601;n.da&#618;s/
+- nave-an-dice /'ne&#618;v.&#601;n.da&#618;s/
 
 > [!NOTE]
 > - It's better to use the one that is convenient for you. My favorite is the first one.
