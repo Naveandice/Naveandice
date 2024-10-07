@@ -20,9 +20,9 @@ Both `an` and `and` must be pronounced as in US pronunciation.
 
 | /    | Name                                            |
 |------|-------------------------------------------------|
-| OS   | Windows 10                                      |
+| OS   | Windows 10 / Fedora Workstation 40              |
 | CPU  | AMD A8-5600K                                    |
-| GPU  | NVIDIA GeForce GT 730 (Arch: Fermi, VRAM: 2 GB) |
+| GPU  | NVIDIA GeForce GT 730 (arch: Fermi, VRAM: 2 GB) |
 | Mobo | Gigabyte GA-F2A68HM-DS2                         |
 | RAM  | Crucial CT51264BD160B.C16F, 2x4GB               |
 
