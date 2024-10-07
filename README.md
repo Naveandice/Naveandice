@@ -34,7 +34,7 @@ I'm just a random person on the Internet. *Or am I?*
 [Naveandice/Naveandice](https://github.com/Naveandice/Naveandice),
 [README.md](https://github.com/Naveandice/Naveandice/blob/main/README.md)
 &middot;
-v2.1.0
+v2.1.1
 
 </sub>
 
@@ -42,7 +42,7 @@ v2.1.0
 [badges-youtube]:   https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoSize=auto
 
 [icons-editors]:    https://go-skill-icons.vercel.app/api/icons?i=vim,vscode,visualstudio,eclipse
-[icons-whatiknow]:  https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bash,powershell,python,cs
+[icons-whatiknow]:  https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bash,powershell,python,cs,java
 [icons-linuxdist]:  https://go-skill-icons.vercel.app/api/icons?i=mint,arch,redhat
 
 [graph-stats]:      https://github-readme-stats.vercel.app/api?username=Naveandice&theme=synthwave&show_icons=true&rank_icon=github
