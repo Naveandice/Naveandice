@@ -1,6 +1,17 @@
 # Naveandice
 
-I type some code and it works. If it doesn't, I type some code and it works.
-If it doesn't, I type some code and it works...
+```java
+package naveandice;
 
-Switching to Linux was my greatest decision of 2026.
+public class HelloWorld
+{
+    public static void main(String[] args)
+    {
+        System.out.println("Hello, world!");
+    }
+}
+```
+
+Write code, compile a program, fix errors, repeat.
+
+Got tired of slop and switched to Linux.
