@@ -15,3 +15,5 @@ public class HelloWorld
 Write code, compile a program, fix errors, repeat.
 
 Got tired of slop and switched to Linux.
+
+**DO NOT PRESS THE FOLLOW BUTTON IF YOU HAVE NO IDEA HOW THIS PLATFORM WORKS.**
